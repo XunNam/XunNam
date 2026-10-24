@@ -14,5 +14,5 @@ I'm a second-year student majoring in **Information Technology**, with a special
 - I am always curious and strive to make decisions based on **evidence**.
 - Outside of coding, I enjoy discovering new things and find out how things work.
 
-[![Now playing on Spotify](/badge/c15237fc5206d23f570839d492859976a55763bb.svg)](/badge/c15237fc5206d23f570839d492859976a55763bb/open)
+[![Now playing on Spotify](https://spotifystats.com//badge/c15237fc5206d23f570839d492859976a55763bb.svg)](https://spotifystats.com//badge/c15237fc5206d23f570839d492859976a55763bb/open)
 <sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
